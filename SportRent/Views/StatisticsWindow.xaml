@@ -1,0 +1,22 @@
+﻿<Window x:Class="SportRent.Views.StatisticsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SportRent.Views"
+        mc:Ignorable="d"
+        Title="Статистика" Height="250" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Статистика заявок" FontSize="18" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Общее количество заявок:" FontWeight="Bold"/>
+            <TextBlock x:Name="TotalRequestsText" FontSize="16" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Среднее время выполнения заявки (дни):" FontWeight="Bold"/>
+            <TextBlock x:Name="AverageCompletionTimeText" FontSize="16" Margin="0,0,0,10"/>
+
+            <Button Content="Закрыть" Width="100" HorizontalAlignment="Right" Click="Close_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
