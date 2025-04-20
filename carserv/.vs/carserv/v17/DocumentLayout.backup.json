@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\carserv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\models\\carservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:models\\carservicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\migrations\\20250420181442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:migrations\\20250420181442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\migrations\\cardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:migrations\\cardbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\windows\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:windows\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\windows\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:windows\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|c:\\c#\\carserv\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A1E4E03-D28B-442B-A0A3-AED83D0014B1}|carserv.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarDbContext.cs",
+              "ToolTip": "C:\\C#\\carserv\\CarDbContext.cs",
+              "RelativeToolTip": "CarDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:35:00.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarServiceRequest.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\Models\\CarServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\CarServiceRequest.cs",
+              "ToolTip": "C:\\C#\\carserv\\Models\\CarServiceRequest.cs",
+              "RelativeToolTip": "Models\\CarServiceRequest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:29:51.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\C#\\carserv\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\C#\\carserv\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T16:27:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\C#\\carserv\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:27:23.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\C#\\carserv\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:27:04.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\C#\\carserv\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\C#\\carserv\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T18:27:20.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\Migrations\\CarDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CarDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\C#\\carserv\\Migrations\\CarDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CarDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:17:29.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250420181442_InitialCreate.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\Migrations\\20250420181442_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250420181442_InitialCreate.cs",
+              "ToolTip": "C:\\C#\\carserv\\Migrations\\20250420181442_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250420181442_InitialCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:14:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\Windows\\EmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\EmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\C#\\carserv\\Windows\\EmployeeWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\EmployeeWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:05:06.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\C#\\carserv\\Windows\\EmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\EmployeeWindow.xaml",
+              "ToolTip": "C:\\C#\\carserv\\Windows\\EmployeeWindow.xaml",
+              "RelativeToolTip": "Windows\\EmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T18:04:53.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\C#\\carserv\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\C#\\carserv\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:28:48.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
