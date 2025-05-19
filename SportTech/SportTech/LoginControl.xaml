@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="SportTech.LoginControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SportTech"
+             mc:Ignorable="d" 
+             d:DesignHeight="450"  d:DesignWidth="320" Background="WhiteSmoke"  >
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Please write down your login and password"  HorizontalAlignment="Center" Margin="40"/>
+
+            <TextBlock Text="Login" HorizontalAlignment="Center" Margin="10" />
+            <TextBox x:Name="LoginTextbox" Width="75"/>
+
+            <TextBlock Text="Password" HorizontalAlignment="Center" Margin="10"/>
+            <TextBox x:Name="PasswordTextbox" Width="75"/>
+
+            <Button Click="OnLoginClick" Width="100" Height="20" Margin="20" Content="Enter"/>
+            <Button Click="OnRegistrationClick" Width="100" HorizontalAlignment="Right" Height="20" Margin="20" Content="Registration" Background="Transparent"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
