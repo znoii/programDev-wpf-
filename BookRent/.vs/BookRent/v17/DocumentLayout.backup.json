@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\c#\\BookRent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\editbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\editbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\addbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\addbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\addbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\addbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\editbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\editbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\windows\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\windows\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MarshevaAA\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|g:\\c#\\bookrent\\bookrent\\bookrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31A218E3-DDA6-4989-A429-AB139500DC04}|BookRent\\BookRent.csproj|solutionrelative:bookrent\\bookrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\LoginWindow.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "BookRent\\Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T03:32:02.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookRent\\Models\\Book.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Models\\Book.cs",
+              "RelativeToolTip": "BookRent\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:55:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationControl.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\RegistrationControl.xaml",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\RegistrationControl.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\RegistrationControl.xaml",
+              "RelativeToolTip": "BookRent\\Windows\\RegistrationControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T03:32:34.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditBookWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\EditBookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\EditBookWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\EditBookWindow.xaml.cs",
+              "RelativeToolTip": "BookRent\\Windows\\EditBookWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:44:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Models\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "BookRent\\Models\\BookDbContext.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Models\\BookDbContext.cs",
+              "RelativeToolTip": "BookRent\\Models\\BookDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:06:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddBookWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\AddBookWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\AddBookWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\AddBookWindow.xaml.cs",
+              "RelativeToolTip": "BookRent\\Windows\\AddBookWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:39:17.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditBookWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\EditBookWindow.xaml",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\EditBookWindow.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\EditBookWindow.xaml",
+              "RelativeToolTip": "BookRent\\Windows\\EditBookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T04:44:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\App.xaml",
+              "RelativeDocumentMoniker": "BookRent\\App.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\App.xaml",
+              "RelativeToolTip": "BookRent\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T03:26:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBookWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\AddBookWindow.xaml",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\AddBookWindow.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\AddBookWindow.xaml",
+              "RelativeToolTip": "BookRent\\Windows\\AddBookWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T04:38:49.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BookRent\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:35:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "BookRent\\Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:33:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookRent\\MainWindow.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\MainWindow.xaml",
+              "RelativeToolTip": "BookRent\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T04:29:10.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\App.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\App.xaml.cs",
+              "RelativeToolTip": "BookRent\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:22:17.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Status.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "BookRent\\Models\\Status.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Models\\Status.cs",
+              "RelativeToolTip": "BookRent\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:01:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BookRent\\Models\\User.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Models\\User.cs",
+              "RelativeToolTip": "BookRent\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:56:07.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginControl.xaml",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginControl.xaml",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\LoginControl.xaml",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginControl.xaml",
+              "RelativeToolTip": "BookRent\\Windows\\LoginControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T03:32:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginControl.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginControl.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\LoginControl.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\LoginControl.xaml.cs",
+              "RelativeToolTip": "BookRent\\Windows\\LoginControl.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:48:05.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrationControl.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\Windows\\RegistrationControl.xaml.cs",
+              "RelativeDocumentMoniker": "BookRent\\Windows\\RegistrationControl.xaml.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\Windows\\RegistrationControl.xaml.cs",
+              "RelativeToolTip": "BookRent\\Windows\\RegistrationControl.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:48:30.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\MarshevaAA\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\MarshevaAA\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:29:50.763Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BookRent\\AssemblyInfo.cs",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\AssemblyInfo.cs",
+              "RelativeToolTip": "BookRent\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T03:26:39.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookRent",
+              "DocumentMoniker": "G:\\c#\\BookRent\\BookRent\\BookRent.csproj",
+              "RelativeDocumentMoniker": "BookRent\\BookRent.csproj",
+              "ToolTip": "G:\\c#\\BookRent\\BookRent\\BookRent.csproj",
+              "RelativeToolTip": "BookRent\\BookRent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T03:26:27.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

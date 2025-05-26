@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SportTech\\SportTech\\SportTech.csproj": {}
+    "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\SportTech.csproj": {}
   },
   "projects": {
-    "E:\\SportTech\\SportTech\\SportTech.csproj": {
+    "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\SportTech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SportTech\\SportTech\\SportTech.csproj",
+        "projectUniqueName": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\SportTech.csproj",
         "projectName": "SportTech",
-        "projectPath": "E:\\SportTech\\SportTech\\SportTech.csproj",
+        "projectPath": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\SportTech.csproj",
         "packagesPath": "C:\\Users\\MarshevaAA\\.nuget\\packages\\",
-        "outputPath": "E:\\SportTech\\SportTech\\obj\\",
+        "outputPath": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

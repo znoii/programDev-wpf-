@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sF8Uaappr0E=",
+  "dgSpecHash": "YyC9DCjP8PI=",
   "success": true,
-  "projectFilePath": "E:\\SportTech\\SportTech\\SportTech.csproj",
+  "projectFilePath": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\SportTech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarshevaAA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\MarshevaAA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

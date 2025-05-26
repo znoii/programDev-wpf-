@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportTech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66393abea7d1b3685a9f1e34b27b38b2d4121f21")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportTech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportTech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

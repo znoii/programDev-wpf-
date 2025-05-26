@@ -1,66 +1,51 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\SportTech\\",
+  "WorkspaceRootPath": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\models\\sportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\models\\sportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\models\\sportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|e:\\sporttech\\sporttech\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|solutionrelative:sporttech\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3741C97F-32B1-4C5F-AABB-2A5940040816}|SportTech\\SportTech.csproj|\\\\iscsi\\profstud\\marshevaaa\\documents\\github\\programdev-wpf-\\sporttech\\sporttech\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,57 +55,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SportTech\\App.xaml.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\App.xaml.cs",
+              "RelativeToolTip": "SportTech\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:29:39.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginControl.xaml.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\LoginControl.xaml.cs",
-              "RelativeDocumentMoniker": "SportTech\\LoginControl.xaml.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\LoginControl.xaml.cs",
-              "RelativeToolTip": "SportTech\\LoginControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SportDbContext.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\SportDbContext.cs",
+              "RelativeDocumentMoniker": "SportTech\\Models\\SportDbContext.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\SportDbContext.cs",
+              "RelativeToolTip": "SportTech\\Models\\SportDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:26:14.171Z",
+              "WhenOpened": "2025-05-19T02:40:25.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SportTech\\MainWindow.xaml",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\MainWindow.xaml",
+              "RelativeToolTip": "SportTech\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T02:31:10.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\MainWindow.xaml.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SportTech\\MainWindow.xaml.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\MainWindow.xaml.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\MainWindow.xaml.cs",
               "RelativeToolTip": "SportTech\\MainWindow.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T02:31:09.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginControl.xaml",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\LoginControl.xaml",
-              "RelativeDocumentMoniker": "SportTech\\LoginControl.xaml",
-              "ToolTip": "E:\\SportTech\\SportTech\\LoginControl.xaml",
-              "RelativeToolTip": "SportTech\\LoginControl.xaml",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\App.xaml",
+              "RelativeDocumentMoniker": "SportTech\\App.xaml",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\App.xaml",
+              "RelativeToolTip": "SportTech\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-19T03:25:35.487Z",
+              "WhenOpened": "2025-05-19T03:29:36.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\AssemblyInfo.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "SportTech\\AssemblyInfo.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\AssemblyInfo.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\AssemblyInfo.cs",
               "RelativeToolTip": "SportTech\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,112 +135,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\App.xaml",
-              "RelativeDocumentMoniker": "SportTech\\App.xaml",
-              "ToolTip": "E:\\SportTech\\SportTech\\App.xaml",
-              "RelativeToolTip": "SportTech\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-19T03:29:36.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SportTech\\MainWindow.xaml",
-              "ToolTip": "E:\\SportTech\\SportTech\\MainWindow.xaml",
-              "RelativeToolTip": "SportTech\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-19T02:31:10.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "SportTech\\Models\\Inventory.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\Models\\Inventory.cs",
-              "RelativeToolTip": "SportTech\\Models\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SportTech\\Models\\User.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\User.cs",
+              "RelativeToolTip": "SportTech\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:31:49.426Z",
+              "WhenOpened": "2025-05-19T02:31:58.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "SportTech\\LoginWindow.xaml.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "SportTech\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:25:37.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\App.xaml.cs",
-              "RelativeDocumentMoniker": "SportTech\\App.xaml.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\App.xaml.cs",
-              "RelativeToolTip": "SportTech\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:29:39.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "SportTech\\LoginWindow.xaml",
-              "ToolTip": "E:\\SportTech\\SportTech\\LoginWindow.xaml",
-              "RelativeToolTip": "SportTech\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-19T03:05:45.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Status.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "SportTech\\Models\\Status.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\Models\\Status.cs",
-              "RelativeToolTip": "SportTech\\Models\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:35:11.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "RegistrationControl.xaml.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\RegistrationControl.xaml.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\RegistrationControl.xaml.cs",
               "RelativeDocumentMoniker": "SportTech\\RegistrationControl.xaml.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\RegistrationControl.xaml.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\RegistrationControl.xaml.cs",
               "RelativeToolTip": "SportTech\\RegistrationControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T03:27:27.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "RegistrationControl.xaml",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\RegistrationControl.xaml",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\RegistrationControl.xaml",
               "RelativeDocumentMoniker": "SportTech\\RegistrationControl.xaml",
-              "ToolTip": "E:\\SportTech\\SportTech\\RegistrationControl.xaml",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\RegistrationControl.xaml",
               "RelativeToolTip": "SportTech\\RegistrationControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-19T03:26:03.454Z",
@@ -242,28 +173,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SportTech\\Models\\User.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\Models\\User.cs",
-              "RelativeToolTip": "SportTech\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "LoginControl.xaml.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginControl.xaml.cs",
+              "RelativeDocumentMoniker": "SportTech\\LoginControl.xaml.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginControl.xaml.cs",
+              "RelativeToolTip": "SportTech\\LoginControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:31:58.528Z"
+              "WhenOpened": "2025-05-19T03:26:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "SportTech\\LoginWindow.xaml",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginWindow.xaml",
+              "RelativeToolTip": "SportTech\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T03:05:45.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginControl.xaml",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginControl.xaml",
+              "RelativeDocumentMoniker": "SportTech\\LoginControl.xaml",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginControl.xaml",
+              "RelativeToolTip": "SportTech\\LoginControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-19T03:25:35.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "SportDbContext.cs",
-              "DocumentMoniker": "E:\\SportTech\\SportTech\\Models\\SportDbContext.cs",
-              "RelativeDocumentMoniker": "SportTech\\Models\\SportDbContext.cs",
-              "ToolTip": "E:\\SportTech\\SportTech\\Models\\SportDbContext.cs",
-              "RelativeToolTip": "SportTech\\Models\\SportDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SportTech\\LoginWindow.xaml.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "SportTech\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:40:25.188Z",
+              "WhenOpened": "2025-05-19T03:25:37.153Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "SportTech\\Models\\Inventory.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\Inventory.cs",
+              "RelativeToolTip": "SportTech\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:31:49.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Status.cs",
+              "DocumentMoniker": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "SportTech\\Models\\Status.cs",
+              "ToolTip": "\\\\iscsi\\profstud\\MarshevaAA\\Documents\\GitHub\\programDev-wpf-\\SportTech\\SportTech\\Models\\Status.cs",
+              "RelativeToolTip": "SportTech\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:35:11.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
