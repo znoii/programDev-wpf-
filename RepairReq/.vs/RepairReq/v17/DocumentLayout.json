@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\c#\\RepairReq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\models\\repairdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\models\\repairdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\addrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\addrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\addrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\addrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\editrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\editrequestwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\editrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\editrequestwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\registrationcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\registrationcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\logincontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|g:\\c#\\repairreq\\repairreq\\windows\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B6E391F9-5D5F-4A03-84AE-105A7A868269}|RepairReq\\RepairReq.csproj|solutionrelative:repairreq\\windows\\logincontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditRequestWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\EditRequestWindow.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\EditRequestWindow.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\EditRequestWindow.xaml",
+              "RelativeToolTip": "RepairReq\\Windows\\EditRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:57:13.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationControl.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\RegistrationControl.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\RegistrationControl.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\RegistrationControl.xaml",
+              "RelativeToolTip": "RepairReq\\Windows\\RegistrationControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:18:01.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\LoginWindow.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "RepairReq\\Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:17:24.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RepairReq\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:06:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\MainWindow.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\MainWindow.xaml",
+              "RelativeToolTip": "RepairReq\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:06:10.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepairDbContext.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Models\\RepairDbContext.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Models\\RepairDbContext.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Models\\RepairDbContext.cs",
+              "RelativeToolTip": "RepairReq\\Models\\RepairDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:38:25.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditRequestWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\EditRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\EditRequestWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\EditRequestWindow.xaml.cs",
+              "RelativeToolTip": "RepairReq\\Windows\\EditRequestWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:10:13.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddRequestWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\AddRequestWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\AddRequestWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\AddRequestWindow.xaml.cs",
+              "RelativeToolTip": "RepairReq\\Windows\\AddRequestWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T04:18:41.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddRequestWindow.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\AddRequestWindow.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\AddRequestWindow.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\AddRequestWindow.xaml",
+              "RelativeToolTip": "RepairReq\\Windows\\AddRequestWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:56:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "RepairReq\\Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:22:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Status.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Models\\Status.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Models\\Status.cs",
+              "RelativeToolTip": "RepairReq\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:11:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Models\\Request.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Models\\Request.cs",
+              "RelativeToolTip": "RepairReq\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:09:15.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Master.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Models\\Master.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Models\\Master.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Models\\Master.cs",
+              "RelativeToolTip": "RepairReq\\Models\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:14:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrationControl.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\RegistrationControl.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\RegistrationControl.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\RegistrationControl.xaml.cs",
+              "RelativeToolTip": "RepairReq\\Windows\\RegistrationControl.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:42:08.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginControl.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginControl.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\LoginControl.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginControl.xaml.cs",
+              "RelativeToolTip": "RepairReq\\Windows\\LoginControl.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:40:21.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\App.xaml.cs",
+              "RelativeDocumentMoniker": "RepairReq\\App.xaml.cs",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\App.xaml.cs",
+              "RelativeToolTip": "RepairReq\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T03:40:38.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\App.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\App.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\App.xaml",
+              "RelativeToolTip": "RepairReq\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:40:33.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginControl.xaml",
+              "DocumentMoniker": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginControl.xaml",
+              "RelativeDocumentMoniker": "RepairReq\\Windows\\LoginControl.xaml",
+              "ToolTip": "G:\\c#\\RepairReq\\RepairReq\\Windows\\LoginControl.xaml",
+              "RelativeToolTip": "RepairReq\\Windows\\LoginControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T03:17:40.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
